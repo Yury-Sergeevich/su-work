@@ -12,6 +12,7 @@ localsConvention: "camelCase"
           additionalData: `
             @use "@/assets/scss/utils" as *;
             @use "@/assets/scss/base" as *;
+            @use "@/assets/scss/layouts" as *;
           `,
         },
       },
