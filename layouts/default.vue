@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="AppWrapper">
+  <div class="appWrapper">
     <AppHeader />
     <main class="appMain">
       <slot />

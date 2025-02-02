@@ -2,19 +2,8 @@
 @use '../layouts' as *;
 
 body {
-  background: $bgLayer;
+  background: $bgColor;
   height: 100vh;
 }
 
-.appMain {
-  flex: 1;
-  overflow: auto;
-  padding: 80px 0;
-  background-color: #282626;
-}
 
-.containerCenter {
-  max-width: 1440px;
-  padding: 15px 40px;
-  margin: 0 auto;
-}
