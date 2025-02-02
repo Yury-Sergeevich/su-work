@@ -19,6 +19,7 @@
   "dependencies": {
     "@antfu/install-pkg": "^1.0.0",
     "@nuxt/eslint": "^1.0.0",
+    "@nuxtjs/color-mode": "^3.5.2",
     "eslint": "^9.19.0",
     "nuxt": "^3.15.4",
     "vue": "latest",
@@ -27,7 +28,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^4.1.0",
     "@stylistic/eslint-plugin": "^3.0.1",
-    "eslint-plugin-fornpm mat": "^1.0.1",
+    "eslint-plugin-format": "^1.0.1",
     "sass": "^1.83.4",
     "vite-plugin-inline-css-modules": "^0.0.8"
   }

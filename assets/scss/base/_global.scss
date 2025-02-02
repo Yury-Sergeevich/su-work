@@ -1,5 +1,9 @@
-@forward 'utils';
+@use '../utils' as *;
+@use '../layouts' as *;
 
 body {
-  background: $bgLayer;
+  background: $bgColor;
+  height: 100vh;
 }
+
+
